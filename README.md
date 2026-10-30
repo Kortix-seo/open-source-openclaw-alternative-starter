@@ -1,6 +1,6 @@
 # Open-source OpenClaw alternative — starter
 
-Open source, self-hosted, and yours. This starter is a working [Kortix](https://kortix.com) project you clone to run a company-level agent system — the open-source AI Operating System — rather than a single personal assistant.
+Open source, self-hosted, and yours. This starter is a working [Kortix](https://kortix.com) project you clone to run a company-level agent system — the open-source CompanyOS — rather than a single personal assistant.
 
 Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, their skills, your company memory and every connector live in one git repo you own; every session runs on its own isolated cloud computer and lands its work through a change request a person reviews and merges.
 
